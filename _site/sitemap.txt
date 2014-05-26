@@ -1,9 +1,9 @@
 
-http://username.github.io/archive.html
-http://username.github.io/atom.xml
-http://username.github.io/categories.html
-http://username.github.io/index.html
-http://username.github.io/pages.html
-http://username.github.io/rss.xml
-http://username.github.io/sitemap.txt
-http://username.github.io/tags.html
+http://zhaojiejoe.github.io/archive.html
+http://zhaojiejoe.github.io/atom.xml
+http://zhaojiejoe.github.io/categories.html
+http://zhaojiejoe.github.io/index.html
+http://zhaojiejoe.github.io/pages.html
+http://zhaojiejoe.github.io/rss.xml
+http://zhaojiejoe.github.io/sitemap.txt
+http://zhaojiejoe.github.io/tags.html

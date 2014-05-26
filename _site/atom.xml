@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Joe's blog</title>
- <link href="http://username.github.io/" rel="self"/>
- <link href="http://username.github.io"/>
- <updated>2014-05-22T22:52:39+08:00</updated>
- <id>http://username.github.io</id>
+ <link href="http://zhaojiejoe.github.io/" rel="self"/>
+ <link href="http://zhaojiejoe.github.io"/>
+ <updated>2014-05-26T20:40:28+08:00</updated>
+ <id>http://zhaojiejoe.github.io</id>
  <author>
    <name>JieZhao</name>
    <email>zhaojiejoe@163.com</email>
